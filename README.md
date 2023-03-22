@@ -1,5 +1,10 @@
 cs50 Final Project
 
+# Rent-A-Reptile
+#### Video Demo:  <URL HERE>
+
+
+#### Description:
 My completion of CS50 coincided with an intensive Ruby on Rails bootcamp that I was also taking in the hopes of cultivating my technical stack, thus it was intuitive for my final project to crossover with the courses content.
 
 We decided to create a website called 'Rent-A-Reptile' with similar functionality to Air-BnB. 
